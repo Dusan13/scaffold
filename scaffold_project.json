@@ -1,0 +1,56 @@
+{
+	api_methods: [
+		{
+			type: 'POST',
+			endpoint: '/employee',
+			body: {
+				name: 'string',
+				age: 'int'
+			},
+			response: {
+				type: 'application/json',
+				payload: {
+					id: 'int'
+				},
+				status_codes: [
+					{
+						code: 0,
+						description: 'success' 
+					},
+					{
+						code: 3000,
+						description: 'user already exists'
+					}
+				]
+			}
+		},
+		{
+			type: 'GET',
+			endpoint: '/employee/{id}',
+			response: {
+				type: 'application/json',
+				payload: {
+					name: 'string',
+					age: 'int'
+				},
+				status_codes: [
+					{
+						code: 0,
+						description: 'success' 
+					},
+					{
+						code: 3000,
+						description: 'id doesnt exists'
+					}
+				]
+			}
+		}
+	]
+}
+
+/*
+Problemi:
+	1. Nazivanje klasa (Mozda dodavanje polja u json name ili nesto sl)
+	2. Mnogo klasa = mnogo implementacija u istom folderu (grupisanje api metoda)
+
+*/

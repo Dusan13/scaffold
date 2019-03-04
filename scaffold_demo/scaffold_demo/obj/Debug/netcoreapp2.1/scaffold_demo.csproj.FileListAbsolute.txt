@@ -1,0 +1,14 @@
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\bin\Debug\netcoreapp2.1\scaffold_demo.deps.json
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\bin\Debug\netcoreapp2.1\scaffold_demo.runtimeconfig.json
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\bin\Debug\netcoreapp2.1\scaffold_demo.runtimeconfig.dev.json
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\bin\Debug\netcoreapp2.1\scaffold_demo.dll
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.csprojAssemblyReference.cache
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.csproj.CoreCompileInputs.cache
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.RazorAssemblyInfo.cache
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.RazorAssemblyInfo.cs
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.AssemblyInfoInputs.cache
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.AssemblyInfo.cs
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.RazorTargetAssemblyInfo.cache
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\bin\Debug\netcoreapp2.1\scaffold_demo.pdb
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.dll
+C:\Users\dusanjov\source\repos\scaffold_demo\scaffold_demo\obj\Debug\netcoreapp2.1\scaffold_demo.pdb
